@@ -3,7 +3,7 @@ This repository contains a Python implementation of the K-Means clustering algor
 
 ## Installation
 1. Clone this repository : `git clone https://github.com/sOR-o/KMeans-MakeBlob-Implementation.git`
-2. Run the Jupyter notebook or Python script to see K-Means clustering in action.
+2. Run the Jupyter notebook/lab or Python script to see K-Means clustering in action.
 
 You can use the provided code as a starting point for your own K-Means clustering projects. Feel free to modify and expand upon this codebase to fit your specific needs. If you'd like to contribute to this project, please open an issue or submit a pull request. 
 
